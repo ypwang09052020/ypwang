@@ -6,11 +6,12 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+```python
+print("hello world!")
 
-# 
-## Header 2
-### Header 3
+# python 笔记
+## 学习心得
+### 综合
 
 - Bulleted
 - List

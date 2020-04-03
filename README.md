@@ -3,7 +3,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 ```python
@@ -13,8 +13,8 @@ print("hello world!")
 ## 学习心得
 ### 综合
 
-- Bulleted
-- List
+- 
+- 
 
 1. Numbered
 2. List
